@@ -1,0 +1,63 @@
+header {
+  height: 100px;
+  background-color: #003366;
+  padding: 50px;
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  margin-left: 350px;
+  color:white;
+}
+
+img {
+display: inline-block;
+  height: 120px;
+  margin-bottom::50px;
+}
+
+h1,img {
+  vertical-align: middle;
+}
+
+aside {
+  width: 25%;
+  height: 600px;
+  background-color: #87CEEB;
+  border-top:  5px outset;
+}
+
+aside, section {
+  display: inline-block;
+  vertical-align: top;
+}
+
+section {
+  height: 500px;
+  margin-left: 50px;
+}
+
+h2 {
+  margin-left: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+p {
+  margin-right: 50px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+.info {
+  color:blue;
+}
+
+h3 {
+  border-bottom: 5px outset;
+}
